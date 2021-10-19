@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoMpvr6VlaY5Ga43P3htLhJ4jBCttfaawgRVJsKp/sy3f1sCgDAE0UfHPBbUtOPCwxuoR8rctnIChnQy7CoP0A==",
+  "success": true,
+  "projectFilePath": "C:\\TASI II\\curso\\GameTOP\\GameTOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlos.fernandes\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\carlos.fernandes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\carlos.fernandes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
