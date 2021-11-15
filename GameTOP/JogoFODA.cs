@@ -2,18 +2,18 @@ namespace GameTOP
 {
     public class JogoFODA
     {
-        private readonly Jogador _jogador;
+        private readonly iJogador _jogador;
 
-        public JogoFODA(Jogador jogador)
+        public JogoFODA(iJogador jogador)
         {
             _jogador = jogador;
         }
         
         public void IniciarJogo()
         {
-            _jogador.corre();
-            _jogador.chuta();
-            _jogador.passe();
+            _jogador.Corre();
+            _jogador.Chuta();
+            _jogador.Passe();
         }
     }
 }

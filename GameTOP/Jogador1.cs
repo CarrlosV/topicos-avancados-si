@@ -1,6 +1,6 @@
 namespace GameTOP
 {
-    public class Jogador1
+    public class Jogador1 : iJogador
     {
         public readonly string _Nome;
 
@@ -8,17 +8,17 @@ namespace GameTOP
         {
             _Nome = nome;
         }
-        public string chuta()
+        public string Chuta()
         {
             return $"{_Nome} está chutando \n";
         }
 
-        public string corre()
+        public string Corre()
         {
-            return $"{_Nome} está Correndo \n";
+            return $"{_Nome} está correndo \n";
         }
 
-        public string passe()
+        public string Passe()
         {
             return $"{_Nome} está passando \n";
         }
